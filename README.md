@@ -26,3 +26,22 @@ npm run start
   
 ### Descrição
 
+#### To-do List
+
+##### O sistema deve:
+* deve poder criar novas tarefas.
+* To-do deve conter um título(uńico), data de criação e data final do To-do.
+* deve poder atualizar/editar
+* deve poder deletar tarefa
+* deve poder filtrar.
+* deve ter um limite de To-do que possa ser configurado.
+* contador de to-dos com a porcentagem (atual/limite).
+
+##### Diferenciais:
+* sistema de login(Firebase Auth).
+* guardar os To-dos no Firebase.
+* deploy da sua aplicação:
+    Pode ser no hosting do firebase: https://firebase.google.com/docs/hosting/quickstart?hl=pt-br
+* Redux
+* Documentação.
+
